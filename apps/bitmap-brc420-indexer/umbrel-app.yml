@@ -18,8 +18,9 @@ repo: https://github.com/switch-900/Bitmap-BRC420-Indexer
 support: https://github.com/switch-900/Bitmap-BRC420-Indexer/issues
 port: 8080
 gallery:
-  - https://i.imgur.com/placeholder1.png
-  - https://i.imgur.com/placeholder2.png
+  - 1.svg
+  - 2.svg
+  - 3.svg
 path: ""
 defaultUsername: ""
 defaultPassword: ""

@@ -1,0 +1,66 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#1a1a1a"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="80" fill="#2d2d2d"/>
+  <text x="60" y="45" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FF8C00">Bitmap BRC-420 Indexer</text>
+  
+  <!-- Navigation -->
+  <rect x="0" y="80" width="1200" height="60" fill="#333333"/>
+  <rect x="40" y="95" width="100" height="30" rx="5" fill="#FF8C00"/>
+  <text x="90" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Home</text>
+  <text x="200" y="115" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">Bitmaps</text>
+  <text x="300" y="115" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">Parcels</text>
+  
+  <!-- Main Content Area -->
+  <rect x="40" y="180" width="1120" height="580" rx="10" fill="#2a2a2a" stroke="#444444" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="80" y="220" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">BRC-420 Deploy Inscriptions</text>
+  
+  <!-- Search Bar -->
+  <rect x="80" y="250" width="400" height="40" rx="20" fill="#3a3a3a" stroke="#555555" stroke-width="1"/>
+  <text x="100" y="275" font-family="Arial, sans-serif" font-size="14" fill="#AAAAAA">Search inscriptions...</text>
+  
+  <!-- Stats Cards -->
+  <rect x="80" y="310" width="200" height="100" rx="8" fill="#FF8C00" opacity="0.2" stroke="#FF8C00" stroke-width="2"/>
+  <text x="90" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF8C00">Total Deploys</text>
+  <text x="90" y="375" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF">1,247</text>
+  
+  <rect x="300" y="310" width="200" height="100" rx="8" fill="#00CC88" opacity="0.2" stroke="#00CC88" stroke-width="2"/>
+  <text x="310" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#00CC88">Active Tokens</text>
+  <text x="310" y="375" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF">892</text>
+  
+  <rect x="520" y="310" width="200" height="100" rx="8" fill="#6666FF" opacity="0.2" stroke="#6666FF" stroke-width="2"/>
+  <text x="530" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6666FF">Total Mints</text>
+  <text x="530" y="375" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFFFFF">45.2K</text>
+  
+  <!-- Table Header -->
+  <rect x="80" y="440" width="1040" height="40" fill="#3a3a3a"/>
+  <text x="100" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#CCCCCC">Token</text>
+  <text x="300" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#CCCCCC">Total Supply</text>
+  <text x="500" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#CCCCCC">Minted</text>
+  <text x="700" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#CCCCCC">Progress</text>
+  <text x="900" y="465" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#CCCCCC">Block</text>
+  
+  <!-- Table Rows -->
+  <rect x="80" y="480" width="1040" height="50" fill="#2a2a2a"/>
+  <text x="100" y="510" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">BITMAP</text>
+  <text x="300" y="510" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">21,000,000</text>
+  <text x="500" y="510" font-family="Arial, sans-serif" font-size="14" fill="#00CC88">18,456,789</text>
+  <rect x="700" y="500" width="150" height="8" rx="4" fill="#444444"/>
+  <rect x="700" y="500" width="130" height="8" rx="4" fill="#00CC88"/>
+  <text x="900" y="510" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">792,435</text>
+  
+  <rect x="80" y="530" width="1040" height="50" fill="#333333"/>
+  <text x="100" y="560" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF">PARCEL</text>
+  <text x="300" y="560" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">1,000,000</text>
+  <text x="500" y="560" font-family="Arial, sans-serif" font-size="14" fill="#FF8C00">245,678</text>
+  <rect x="700" y="550" width="150" height="8" rx="4" fill="#444444"/>
+  <rect x="700" y="550" width="37" height="8" rx="4" fill="#FF8C00"/>
+  <text x="900" y="560" font-family="Arial, sans-serif" font-size="14" fill="#CCCCCC">795,201</text>
+  
+  <!-- Footer -->
+  <text x="80" y="720" font-family="Arial, sans-serif" font-size="12" fill="#888888">Real-time Bitcoin inscription indexing • Local Umbrel node • Privacy-first</text>
+</svg>
