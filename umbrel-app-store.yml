@@ -4,3 +4,5 @@ description: Community app store for Bitmap BRC-420 Indexer - a comprehensive Bi
 developer: switch-900
 website: https://github.com/switch-900/bitmap-brc420-community-app-store
 support: https://github.com/switch-900/bitmap-brc420-community-app-store/issues
+apps:
+  - bitmap-brc420-indexer

@@ -25,6 +25,7 @@ path: ""
 defaultUsername: ""
 defaultPassword: ""
 torOnly: false
+deterministic: true
 permissions:
   - STORAGE_DOWNLOADS
 releaseNotes: >-
