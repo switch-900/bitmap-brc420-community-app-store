@@ -1,8 +1,8 @@
-id: bitmap-brc420-community-store
+id: bitmap-brc420
 name: Bitmap BRC-420 Community Store
 description: Community app store for Bitmap BRC-420 Indexer - a comprehensive Bitcoin inscription indexer for BRC-420 tokens, bitmaps, and parcels
 developer: switch-900
 website: https://github.com/switch-900/bitmap-brc420-community-app-store
 support: https://github.com/switch-900/bitmap-brc420-community-app-store/issues
 apps:
-  - bitmap-brc420-indexer
+  - Bitmap-BRC420-Indexer

@@ -1,8 +1,8 @@
 manifestVersion: 1
-id: bitmap-brc420-indexer
+id: Bitmap-BRC420-Indexer
 name: Bitmap BRC-420 Indexer
 tagline: Bitcoin inscriptions & parcel indexer for BRC-420 and Bitmaps
-icon: https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/icon.svg
+icon: https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/icon.svg
 category: Bitcoin
 version: "1.0.7"
 port: 8080
@@ -34,9 +34,9 @@ submission: https://github.com/switch-900/bitmap-brc420-community-app-store
 repo: https://github.com/switch-900/Bitmap-BRC420-Indexer
 support: https://github.com/switch-900/Bitmap-BRC420-Indexer/issues
 gallery:
-  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/1.svg
-  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/2.svg
-  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/3.svg
+  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/gallery/1.svg
+  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/gallery/2.svg
+  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/gallery/3.svg
 releaseNotes: >-
   Initial release of Bitmap BRC-420 Indexer v1.0.1:
   - Complete BRC-420 inscription indexing with parcel support
