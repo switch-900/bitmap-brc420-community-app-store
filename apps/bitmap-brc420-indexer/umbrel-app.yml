@@ -1,10 +1,10 @@
 manifestVersion: 1
-id: Bitmap-BRC420-Indexer
+id: bitmap-brc420-indexer
 name: Bitmap BRC-420 Indexer
 tagline: Bitcoin inscriptions & parcel indexer for BRC-420 and Bitmaps
-icon: https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/icon.svg
-category: Bitcoin
-version: "1.0.7"
+icon: https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/icon.svg
+category: bitcoin
+version: "1.0.8"
 port: 8080
 description: >-
   A comprehensive Bitcoin inscription indexer that runs on your Umbrel node, 
@@ -28,15 +28,15 @@ description: >-
   The indexer validates all inscriptions according to BRC-420 standards and provides comprehensive parcel support with provenance validation. It connects directly to your Umbrel's Bitcoin Core, Ordinals, and Mempool services for maximum privacy and performance.
 
 developer: switch-900
-website: https://github.com/switch-900/Bitmap-BRC420-Indexer
+website: https://github.com/switch-900/bitmap-brc420-indexer
 submitter: switch-900
 submission: https://github.com/switch-900/bitmap-brc420-community-app-store
-repo: https://github.com/switch-900/Bitmap-BRC420-Indexer
-support: https://github.com/switch-900/Bitmap-BRC420-Indexer/issues
+repo: https://github.com/switch-900/bitmap-brc420-indexer
+support: https://github.com/switch-900/bitmap-brc420-indexer/issues
 gallery:
-  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/gallery/1.svg
-  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/gallery/2.svg
-  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/Bitmap-BRC420-Indexer/gallery/3.svg
+  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/1.svg
+  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/2.svg
+  - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/3.svg
 releaseNotes: >-
   Initial release of Bitmap BRC-420 Indexer v1.0.1:
   - Complete BRC-420 inscription indexing with parcel support
@@ -52,6 +52,17 @@ releaseNotes: >-
 dependencies:
   - bitcoin
   - ordinals
+developer: switch-900
+website: https://github.com/switch-900/Bitmap-brc420-Indexer
+repo: https://github.com/switch-900/Bitmap-brc420-Indexer
+support: https://github.com/switch-900/Bitmap-brc420-Indexer/issues
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
+torOnly: false
+submitter: switch-900
+submission: https://github.com/switch-900/Bitmap-brc420-Indexer

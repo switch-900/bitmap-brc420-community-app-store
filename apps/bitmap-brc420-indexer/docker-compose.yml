@@ -3,12 +3,12 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: Bitmap-BRC420-Indexer_web_1
+      APP_HOST: bitmap-brc420-indexer_web_1
       APP_PORT: 8080
       PROXY_AUTH_ADD: "false"
 
   web:
-    image: ghcr.io/switch-900/Bitmap-BRC420-Indexer:latest
+    image: ghcr.io/switch-900/bitmap-brc420-indexer:latest
     restart: on-failure
     stop_grace_period: 1m
     volumes:
