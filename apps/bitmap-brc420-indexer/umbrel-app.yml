@@ -38,7 +38,7 @@ gallery:
   - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/2.svg
   - https://raw.githubusercontent.com/switch-900/bitmap-brc420-community-app-store/refs/heads/main/apps/bitmap-brc420-indexer/gallery/3.svg
 releaseNotes: >-
-  Initial release of Bitmap BRC-420 Indexer v1.0.1:
+  Initial release of Bitmap BRC-420 Indexer v1.0.8:
   - Complete BRC-420 inscription indexing with parcel support
   - Real-time Bitcoin blockchain monitoring
   - Advanced parcel validation with provenance checking
@@ -52,17 +52,7 @@ releaseNotes: >-
 dependencies:
   - bitcoin
   - ordinals
-developer: switch-900
-website: https://github.com/switch-900/Bitmap-brc420-Indexer
-repo: https://github.com/switch-900/Bitmap-brc420-Indexer
-support: https://github.com/switch-900/Bitmap-brc420-Indexer/issues
-gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
 torOnly: false
-submitter: switch-900
-submission: https://github.com/switch-900/Bitmap-brc420-Indexer
